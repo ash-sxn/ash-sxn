@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Saxena 
 - 👀 I’m interested in joining open source communities and learn while contributing   
-- 🌱 I’m currently learning Java and DevOps
+- 🌱 I’m currently learning and DevOps
 - 📫 You can reach me on twitter @ash_sxn
 
 <!---
