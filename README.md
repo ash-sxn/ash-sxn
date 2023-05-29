@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Saxena 
 - 👀 I’m interested in joining open source communities and learn while contributing   
-- 🌱 I’m currently learning and DevOps
+- 🌱 I’m currently learning DevOps and Cyber Security
 - 📫 You can reach me on ash.191245141@gmail.com
 
 <!---
